@@ -23,6 +23,6 @@
 
   <footer>
     Made by <a href="https://www.yusufjon.com" target="_blank">Yusuf</a>.
-    <a href="https://github.com/taniarascia/accordion" target="_blank">Open source</a>.
+    <a href="https://github.com/YusufjonAbdumajidov/kyboardaccordion" target="_blank">Open source</a>.
   </footer>
 </div>
